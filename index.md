@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DREAM Project Site
+title: Final Quest Report
 ---
 
 * TOC
@@ -8,15 +8,13 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
-
-## About My Advisor
-
-Advisor info goes here.
+My name is Yuto Inoue.
+I am a student at Uni High in Sophomore year learning the fundamentals of programming.
 
 ## About My Project
 
-Project description goes here.
+Creating Pong game in Python for University Laboratory High School Computer Programming 2024 Fall course.
+The purpose of this project is to learn how to use new python modules such as turtle or pygame and create a game from scratch.
 
 [My Final Report](files/finalreport.pdf)
 
