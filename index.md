@@ -20,4 +20,5 @@ The purpose of this project is to learn how to use new python modules such as tu
 ## My Blog
 
 V Click below to see my posts V
+
 [My Blog](blog.html)
