@@ -15,3 +15,11 @@ Overall my main tips include:
 Over this semester, my view on coding has changed a lot. At the beginning of this course, I thought that coding and programming was very hard and required a lot of intelligence to do. Everyone I knew who programmed were extremely smart! But as we started the course, I found out that it's not as hard as it seems. Now I also learned that it's not easy; it requires lots of patience and critical thinking, as well as cause lots of stress, late nights, and errors. However, at this point of time, I have come to enjoy coding. I enjoy coding with my friends and I have had lots of fun during this project. Every problem I solve, I feel a sense of accomplishment, which is the same feeling I have playing sports. To conclude, this course and experience has changed my view on programming to be something that is fun. 
 
 I hope and believe that future and current learners of programming will also be able to find it fun to learn and can solve all their errors in their code. :D
+
+(Update on 12/18/2024)
+
+Here is the link to my Pong game:
+
+This is the final Day of this project:
+
+Here is the link to my [Pong game file](../files/menu.py).
