@@ -1,3 +1,8 @@
+---
+layout: post
+title: Tips
+---
+
 Tips for students learning Programming fundamentals:
 
 First, I think knowing the basics is always important, whether it is programming or anything else. For example in math, everything builds up on each other, such as powers building on multiplication building on addition. This is the same with programming and python. Understanding basic data sets such as str, int, and bool become important as they are built upon for other data sets such as list, dictionary, etc. This can also create connections which can help you learn faster. On the topic of connections, through this course I learned that making connections can be very helpful. Although it was not my favorite section to complete on our debriefs every mission, it was certainly helpful at times. I think it helps (at least for me) to understand and retain the information better, so I can use it later. 
